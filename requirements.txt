@@ -1,0 +1,12 @@
+opencv-python
+keras-facenet
+scikit-learn
+streamlit
+super-gradients==3.7.1
+joblib
+altair<5
+tensorflow==2.10.0
+numpy==1.23.5
+matplotlib==3.8.3
+pandas==2.2.0
+scipy==1.12.0
