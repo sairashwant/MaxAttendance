@@ -1,6 +1,6 @@
-# Face Detection and Recognition
+# MaxAttendance
 
-This project implements a face detection and recognition system using YOLO (You Only Look Once) for Face detection and a FaceNet and SVM (Support Vector Machine) model for face recognition. The application is built using Streamlit for a user-friendly web interface. The models were trained using custom dataset.
+This project implements an attendance system with a face detection and recognition system using YOLO (You Only Look Once) for Face detection and a FaceNet and SVM (Support Vector Machine) model for face recognition. The application is built using Streamlit to create a user-friendly web interface. The models were trained using a custom dataset.
 
 ## Table of Contents
 
