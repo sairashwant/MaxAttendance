@@ -1,7 +1,14 @@
 # MaxAttendance
 
-This project implements an attendance system with a face detection and recognition system using YOLO (You Only Look Once) for Face detection and a FaceNet and SVM (Support Vector Machine) model for face recognition. The application is built using Streamlit to create a user-friendly web interface. The models were trained using a custom dataset.
+This project implements an attendance system with a face detection and recognition system. It uses YOLO (You Only Look Once) for Face detection and a FaceNet and SVM (Support Vector Machine) model for face recognition. The application is built using Streamlit to create a user-friendly web interface. The models were trained using a custom dataset.
 
+
+Dataset for YOLO Face detection:
+https://www.kaggle.com/code/mohamedchahed/face-detection-yolo-nas
+Dataset for face recognition:
+1. Create a new directory for each person.
+2. Name the directory as the person's name.
+3. Run the facet code for that directory to get your custom recognition model.
 ## Table of Contents
 
 - [Features](#features)
