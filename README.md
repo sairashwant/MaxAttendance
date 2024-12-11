@@ -1,6 +1,6 @@
 # Face Detection and Recognition
 
-This project implements a face detection and recognition system using YOLO (You Only Look Once) for object detection and a pre-trained SVM (Support Vector Machine) model for face recognition. The application is built using Streamlit for a user-friendly web interface.
+This project implements a face detection and recognition system using YOLO (You Only Look Once) for Face detection and a FaceNet and SVM (Support Vector Machine) model for face recognition. The application is built using Streamlit for a user-friendly web interface. The models were trained using custom dataset.
 
 ## Table of Contents
 
