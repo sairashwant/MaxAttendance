@@ -35,13 +35,23 @@ To run this project, you need to have the following Python packages installed:
 - scipy==1.12.0
 
 You can install the required packages using the following command:
-```bash
 pip install -r requirements.txt
 1. Clone the repository:
+```bash
 git clone <repository-url>
+```
+2. Change the directory to the cloned location:
+```bash
 cd <repository-directory>
+```
+3. Install requirements.txt:
+```bash
 pip install -r requirements.txt
+```
+4. Run the streamlit app:
+```bash
 streamlit run app.py
+```
 Open your web browser and navigate to http://localhost:8501.
 
 Upload a video file (MP4 format) using the file uploader.
